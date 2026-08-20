@@ -74,7 +74,7 @@ from a malicious guest.
 - Low-level vulnerability research on virtualization and emulation stacks (VirtualBox, QEMU), resulting in **3 assigned CVEs**.
 - Memory-safety analysis of virtual disk-image parsers and device models — heap buffer overflows, out-of-bounds writes, and DMA-reentrancy / use-after-free conditions.
 
-**Smart Contract Auditor** — QuillAudits · *2023 Apr – 2025 May*
+**Smart Contract Auditor** — QuillAudits · *2024 Oct – 2025 May*
 
 - Conducted comprehensive solo audits for **Magpie Cross-Chain Bridge, Zoth Pool, Nordek, NFTFN, De.Fi** and others, assessing DeFi protocols involving AMMs, staking pools, vesting, bridges, and ERC-20/ERC-721.
 - Performed risk assessments across ERC-20 tokens, NFT marketplaces, and DeFi lending/borrowing platforms.
