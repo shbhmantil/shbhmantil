@@ -13,14 +13,15 @@
 
 ## 🔎 About
 
-Security researcher focused on **hypervisor and low-level memory-safety
-vulnerabilities**. I hunt for bugs in virtualization and emulation stacks
+Security Engineer with 4+ years of experience spanning **smart-contract
+auditing**, **application security**, and **low-level vulnerability research**.
+I audit DeFi protocols, hunt for bugs in virtualization and emulation stacks
 (VirtualBox, QEMU) and system software, and disclose them through coordinated
 vendor disclosure. My work has led to **3 assigned CVEs** across Oracle and
 QEMU.
 
-- 🏢 Currently: Security Researcher at **Octane Security**
-- 🎯 Focus: hypervisor security, memory corruption (heap/OOB), virtual device emulation, fuzzing
+- 🏢 Currently: Smart Contract Auditor at **QuillAudits**
+- 🎯 Focus: smart-contract security, hypervisor & memory corruption (heap/OOB), code review, SAST/DAST
 - 📫 Reach me: [shubham@octane.security](mailto:shubham@octane.security)
 
 ---
@@ -63,6 +64,38 @@ leading to inconsistent device state and a use-after-free condition reachable
 from a malicious guest.
 
 </details>
+
+---
+
+## 💼 Experience
+
+**Smart Contract Auditor** — QuillAudits · *2023 Apr – Present*
+
+- Conducted comprehensive solo audits for **Magpie Cross-Chain Bridge, Zoth Pool, Nordek, NFTFN, De.Fi** and others, assessing DeFi protocols involving AMMs, staking pools, vesting, bridges, and ERC-20/ERC-721.
+- Performed risk assessments across ERC-20 tokens, NFT marketplaces, and DeFi lending/borrowing platforms.
+- Identified and remediated critical flaws — reentrancy, improper accounting, precision errors, and inadequate reward calculations — strengthening client security frameworks.
+- Audited projects built in **Cairo (Starknet)** and **FunC (TON)**.
+
+**Application Security Manager** — Star Health and Allied Insurance · *2022 Jun – 2024 Oct*
+
+- Built and rolled out an automated security testing framework covering 50+ applications (Bash & Python).
+- Led periodic penetration testing, red-team exercises, and pre-release security assessments (PRSA); triaged, ranked, and prioritized vulnerabilities and drove timely remediation.
+- Revised application security standards and procedures for **IRDAI** compliance.
+- Owned risk management and threat modeling across organizational assets.
+
+**Associate Security Engineer** — Castellum Labs · *2020 Dec – 2022 Jun*
+
+- Delivered VAPT for web applications, mobile apps, and APIs, communicating findings in professional client reports.
+- Researched and curated a collection of open-source security tooling.
+- Designed a fully orchestrated, automated platform for web/mobile application security testing (Python), reducing testing time and effort.
+
+---
+
+## 🎓 Education & Certifications
+
+- **M.Sc. Cyber Forensics & Information Security** — University of Madras *(2022–2024)*
+- **B.Sc. Computer Science** — Maharishi Dayanand University *(2017–2020)*
+- **Certified Ethical Hacker (Practical)** — EC-Council · **IBM Cybersecurity Analyst** — Coursera · **HTB Pro Lab: Dante**
 
 ---
 
