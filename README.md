@@ -13,7 +13,7 @@
 
 ## 🔎 About
 
-Security Engineer with 4+ years of experience spanning **smart-contract
+Security Engineer with 5+ years of experience spanning **smart-contract
 auditing**, **application security**, and **low-level vulnerability research**.
 I audit DeFi protocols, hunt for bugs in virtualization and emulation stacks
 (VirtualBox, QEMU) and system software, and disclose them through coordinated
