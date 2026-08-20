@@ -20,8 +20,8 @@ I audit DeFi protocols, hunt for bugs in virtualization and emulation stacks
 vendor disclosure. My work has led to **3 assigned CVEs** across Oracle and
 QEMU.
 
-- 🏢 Currently: Smart Contract Auditor at **QuillAudits**
-- 🎯 Focus: smart-contract security, hypervisor & memory corruption (heap/OOB), code review, SAST/DAST
+- 🏢 Currently: Security Researcher at **Octane Security**
+- 🎯 Focus: hypervisor & memory corruption (heap/OOB), smart-contract security, code review, SAST/DAST
 - 📫 Reach me: [shubham@octane.security](mailto:shubham@octane.security)
 
 ---
@@ -69,7 +69,12 @@ from a malicious guest.
 
 ## 💼 Experience
 
-**Smart Contract Auditor** — QuillAudits · *2023 Apr – Present*
+**Security Researcher** — Octane Security · *2025 May – Present*
+
+- Low-level vulnerability research on virtualization and emulation stacks (VirtualBox, QEMU), resulting in **3 assigned CVEs**.
+- Memory-safety analysis of virtual disk-image parsers and device models — heap buffer overflows, out-of-bounds writes, and DMA-reentrancy / use-after-free conditions.
+
+**Smart Contract Auditor** — QuillAudits · *2023 Apr – 2025 May*
 
 - Conducted comprehensive solo audits for **Magpie Cross-Chain Bridge, Zoth Pool, Nordek, NFTFN, De.Fi** and others, assessing DeFi protocols involving AMMs, staking pools, vesting, bridges, and ERC-20/ERC-721.
 - Performed risk assessments across ERC-20 tokens, NFT marketplaces, and DeFi lending/borrowing platforms.
