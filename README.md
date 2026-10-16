@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assets/security-research-banner.png" alt="Abstract security research banner" width="100%" />
-</p>
-
 <table>
   <tr>
     <td width="125" align="center" valign="middle">
@@ -65,7 +61,7 @@ My background spans nearly six years across security research, product and appli
 
 | ID | Surface | Vulnerability class | Reference |
 |---|---|---|---|
-| **CVE-2026-60161** | Oracle VM VirtualBox VMDK parsing | Host-side heap corruption | [Oracle CPU](https://www.oracle.com/security-alerts/cpujul2026.html) |
+| **CVE-2026-60161** | Oracle VM VirtualBox VMDK parsing | Host-side heap corruption | [Oracle Security Alert](https://www.oracle.com/security-alerts/cpujul2026.html) |
 | **CVE-2026-71125** | Oracle VM VirtualBox CUE parsing | Out-of-bounds write | [Oracle Security Alert](https://www.oracle.com/security-alerts/cspuaug2026.html) |
 | **CVE-2026-66022** | QEMU virtio-net transmit path | DMA re-entrancy / memory safety | [Debian tracker](https://security-tracker.debian.org/tracker/CVE-2026-66022) |
 
