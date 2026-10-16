@@ -4,9 +4,11 @@
       <img src="./assets/sa-mark.svg" alt="Shubham Antil" width="105" />
     </td>
     <td align="center" valign="middle">
-      <h1>Shubham Antil</h1>
-      <b>Security Researcher</b><br/>
-      Vulnerability Research · Product Security · Application Security
+      <h1 align="center">Shubham Antil</h1>
+      <p align="center">
+        <b>Security Researcher</b><br/>
+        Vulnerability Research · Product Security · Application Security
+      </p>
     </td>
   </tr>
 </table>
@@ -35,22 +37,22 @@ My background spans nearly six years across security research, product and appli
 <table>
   <tr>
     <td width="50%" align="center" valign="top">
-      <h3>🧠 Vulnerability research</h3>
-      Memory corruption, use-after-free, out-of-bounds access, uninitialized memory, parsers, device models, kernel networking, and exploitability analysis.
+      <h3 align="center">🧠 Vulnerability research</h3>
+      <p align="center">Memory corruption, use-after-free, out-of-bounds access, uninitialized memory, parsers, device models, kernel networking, and exploitability analysis.</p>
     </td>
     <td width="50%" align="center" valign="top">
-      <h3>🛡️ Product security</h3>
-      Threat modeling, secure design reviews, source-code analysis, vulnerability triage, severity assessment, patch review, and remediation validation.
+      <h3 align="center">🛡️ Product security</h3>
+      <p align="center">Threat modeling, secure design reviews, source-code analysis, vulnerability triage, severity assessment, patch review, and remediation validation.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center" valign="top">
-      <h3>⚙️ Research engineering</h3>
-      PoC and harness development, sanitizer-backed validation, crash minimization, regression testing, build orchestration, and AI-assisted research workflows.
+      <h3 align="center">⚙️ Research engineering</h3>
+      <p align="center">PoC and harness development, sanitizer-backed validation, crash minimization, regression testing, build orchestration, and AI-assisted research workflows.</p>
     </td>
     <td width="50%" align="center" valign="top">
-      <h3>🔐 Application security</h3>
-      Web, mobile, API and cloud assessments; secure SDLC; SAST/DAST; penetration testing; and developer-focused security automation.
+      <h3 align="center">🔐 Application security</h3>
+      <p align="center">Web, mobile, API and cloud assessments; secure SDLC; SAST/DAST; penetration testing; and developer-focused security automation.</p>
     </td>
   </tr>
 </table>
