@@ -127,13 +127,6 @@ The goal is not merely to produce a crash. A useful report gives maintainers a r
 `Application Security Manager` **Star Health and Allied Insurance** · Jun 2022–Oct 2024  
 `Associate Security Engineer` **Castellum Labs** · Dec 2020–Jun 2022
 
-## GitHub activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shbhmantil&show_icons=true&hide_border=true&bg_color=071522&title_color=65E6D4&text_color=C9D7E3&icon_color=19C3C8" alt="Shubham's GitHub statistics" height="155" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shbhmantil&layout=compact&hide_border=true&bg_color=071522&title_color=65E6D4&text_color=C9D7E3" alt="Most-used languages" height="155" />
-</p>
-
 <p align="center">
   Interested in product security, application security, or vulnerability research?<br/>
   <a href="mailto:shbhm.antil@gmail.com"><b>Let’s talk</b></a>
